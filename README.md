@@ -11,3 +11,8 @@ In this repository , I will share all my projects which I had completed during t
 
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-LandingPage.jpg" width="500" height="200" >
 
+## *Project 3 : Code Player*
+[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/blob/master/Project-3_CodePlayer.html)
+
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-CodePlayer.jpg" width="500" height="200" >
+
