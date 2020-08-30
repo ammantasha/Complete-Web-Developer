@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">      
+        <title>TIC-TAC-TOE GAME</title>
+        <link rel="stylesheet" href="Ass-13-tic-tac-toe.css">
+    </head>
+
+    <body>
+        <h1><marquee>TIC TAC TOE</marquee></h1>
+        <h2 id="player">Lets Begin!!! All the Best</h2>
+
+        <table>          
+            <tr>
+                <td id="row1" onclick="printx('1')"></td>
+                <td id="row2" onclick="printx('2')"></td>
+                <td id="row3" onclick="printx('3')"></td>
+            </tr>
+            <tr>
+                <td id="row4" onclick="printx('4')"></td>
+                <td id="row5" onclick="printx('5')"></td>
+                <td id="row6" onclick="printx('6')"></td>
+            </tr>
+            <tr>
+                <td id="row7" onclick="printx('7')"></td>
+                <td id="row8" onclick="printx('8')"></td>
+                <td id="row9" onclick="printx('9')"></td>
+            </tr>        
+        </table>
+
+        <script src="Ass-13-tic-tac-toe.js"></script>
+
+    </body>
+
+</html>
