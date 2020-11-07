@@ -24,5 +24,5 @@ In this repository, I will share my projects which I had made during the Complet
 ## *Project 5: Landing Page*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-5_Landing%20Page)
 
-<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-5_Landing%20Page.png" width="1000" height="200" >
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-5_Landing%20Page.png">
 
