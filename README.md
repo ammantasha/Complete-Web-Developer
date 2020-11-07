@@ -4,7 +4,7 @@ In this repository, I will share my projects which I had made during the Complet
 ## *Project 1: Analog Clock*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/blob/master/Project-1_AnalogClock.html)
 
-<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-Clock.jpg" width="500" height="200" >
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-1_Analog%20Clock.jpg">
 
 ## *Project 2: Landing Page*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/blob/master/Project-2_LandingPage.html)
