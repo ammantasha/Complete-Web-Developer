@@ -1,0 +1,45 @@
+ .jumbotron {            
+              background: url('background.jpg') no-repeat center center;
+              -webkit-background-size: 100% 100%;
+              -moz-background-size: 100% 100%;
+              -o-background-size: 100% 100%;
+              background-size: 100% 100%;
+              text-align: center;
+              margin-top: 50px;
+              padding-bottom: 150px;
+              padding-top: 80px;
+              color: khaki;
+          }
+          #abovetext{
+            color: red;
+          }          
+          #email {              
+              width: 300px;              
+          }          
+          #appSummary {              
+             text-align: center;
+              margin-top:50px;
+              margin-bottom: 50px;
+              height: 80px;              
+          }          
+          .card-img-top {              
+              width: 100%;        
+          }          
+          #playStoreIcon {
+              width: 200px;
+              padding-right: 10px;        
+          }
+          #appStoreIcon {              
+              width: 175px;              
+          }          
+          #footer {              
+              background-color: lightpink;
+              text-align: center;
+              padding-top: 200px;
+              margin-top: 50px;
+              padding-bottom: 130px;
+              width: 100%;
+          }          
+          body {
+              position: relative;              
+          }    
