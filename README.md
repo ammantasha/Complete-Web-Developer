@@ -31,3 +31,7 @@ In this repository, I will share my projects which I had made during the Complet
 
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-6_ReactionTester.jpg">
 
+## *Project 7: BBC Website Clone*
+[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-7_BBC-WebsiteClone)
+
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-7_BBC-WebsiteClone.jpg">
