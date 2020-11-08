@@ -14,7 +14,7 @@ In this repository, I will share my projects which I had made during the Complet
 ## *Project 3: Code Player*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-3_CodePlayer)
 
-<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-3_CodePlayer.jpg" >
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-3_CodePlayer.png" >
 
 ## *Project 4: Tic Tac Toe Game*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-4_Tic-Tac-Toe-Game)
