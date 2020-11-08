@@ -21,8 +21,13 @@ In this repository, I will share my projects which I had made during the Complet
 
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-TicTacToeGame.png" width="1000" height="200" >
 
-## *Project 5: Landing Page*
+## *Project 5: Oslo-Demo Page*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-5_Oslo:DemoPage)
 
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-5_Landing%20Page.png">
+
+## *Project 6: Reaction Tester*
+[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-6_ReactionTester)
+
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-6_ReactionTester.jpg">
 
