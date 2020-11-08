@@ -19,7 +19,7 @@ In this repository, I will share my projects which I had made during the Complet
 ## *Project 4: Tic Tac Toe Game*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-4_Tic-Tac-Toe-Game)
 
-<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-TicTacToeGame.png" width="1000" height="200" >
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-4_TicTacToeGame.png" >
 
 ## *Project 5: Oslo-Demo Page*
 [Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-5_Oslo:DemoPage)
