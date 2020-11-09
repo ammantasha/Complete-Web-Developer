@@ -53,8 +53,13 @@ In this repository, I will share my projects which I had made during the Complet
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project_10_Stone-Paper-Scissor-Game.jpg">
 <img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project_10_Stone-Paper-Scissor-Game-2.jpg">
 
-## *Project 9: Web Scraper Using PHP*
-[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project-9_WebScraper)
+## *Project 11: Calculator Using Python*
+[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project_11_Calculator)
 
-<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project-9_WebScraper.jpg">
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project_11_Calculator.jpg">
+
+## *Project 11: Calculator Using Python*
+[Link to the Code](https://github.com/ammantasha/Complete-Web-Developer/tree/master/Project_11_Calculator)
+
+<img src="https://github.com/ammantasha/Complete-Web-Developer/blob/master/Images/Project_11_Calculator.jpg">
 
